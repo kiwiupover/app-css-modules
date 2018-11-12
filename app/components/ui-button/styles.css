@@ -1,0 +1,6 @@
+.ui-button {
+  min-width: 200px;
+  padding: 16px;
+  border: 2px solid brown;
+  border-radius: 4px
+}
