@@ -21,6 +21,7 @@
     "@ember/jquery": "^0.5.2",
     "@ember/optional-features": "^0.6.3",
     "broccoli-asset-rev": "^2.7.0",
+    "css-modules": "github:kiwiupover/css-modules#d5e2e0b4370cdbf23eca90c11003cfe60265d152",
     "ember-ajax": "^3.1.0",
     "ember-cli": "~3.5.0",
     "ember-cli-app-version": "^3.2.0",
